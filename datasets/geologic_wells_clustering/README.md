@@ -1,0 +1,3 @@
+PMI3930 - Ciência de Dados para Engenharia de Petróleo (2024)
+
+O objetivo desta atividade é exercitar o conhecimento de técnicas de agrupamento de dados. Neste trabalho, vamos analisar diferentes atributos de dados geológicos com o objetivo de verificar como estes dados estão agrupados segundo as características geológicas. O conjunto de dados que deve ser usado está disponível na página do Moodle com o nome Geologic_DataSet.csv. Este conjunto contém dados de 438 poços com seus respectivos aspectos geológicos. Os dados incluem sete parâmetros (gamma ray, bulk density, resistivity, water saturation, Phih (porosity\*thickness), TOC (total organic content) and TVD). O objetivo é agrupar os dados usando somente os aspectos geológicos contidos nos dados.
